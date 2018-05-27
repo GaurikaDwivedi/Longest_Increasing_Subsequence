@@ -26,7 +26,6 @@ def verify_increasing(seq):
     
     return True
 
-# Followed wikipedia pesuocode given on piazza.
 def find_lis(seq):
     L = 1
     M = [0]   
